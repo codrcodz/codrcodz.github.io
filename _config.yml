@@ -1,0 +1,8 @@
+title: codz.io
+description: Future blog and wiki of codrcodz
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
